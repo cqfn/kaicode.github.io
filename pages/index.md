@@ -82,6 +82,8 @@ LD @ [Huawei RRI](https://career.huawei.ru/rri/)
 
 # Tickets:
 
+Total seats: 400
+
 The event is invite-only. To get an invitation you need to know
 someone who already has it. Don't know anyone? Try to
 [email us](mailto:tickets@kaicode.org).
