@@ -44,7 +44,12 @@ All 16 finalists will get some non-monetary rewards.
 # Speakers:
 
 ![yegor](/images/face.jpg)
-Someone Awesome
+Someone truly awesome
+<br/>
+{: .speaker}
+
+![yegor](/images/face.jpg)
+Someone awesome
 <br/>
 {: .speaker}
 
@@ -57,7 +62,7 @@ CTO @ [Huawei RRI](https://career.huawei.ru/rri/)
 ![yegor](https://www.yegor256.com/images/face-256x256.jpg)
 [Yegor Bugayenko](https://www.yegor256.com)
 <br/>
-LD @ [Huawei RRI](https://career.huawei.ru/rri/)
+Lab Director @ [Huawei RRI](https://career.huawei.ru/rri/)
 {: .speaker}
 
 # Agenda:
@@ -66,9 +71,9 @@ LD @ [Huawei RRI](https://career.huawei.ru/rri/)
 
 11:00 Keynote
 
-11:30 Keynote
+11:30 Vladimir Rubanov
 
-12:00 Keynote
+12:00 Yegor Bugayenko
 
 12:30 Competition (6 projects)
 

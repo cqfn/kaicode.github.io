@@ -1,16 +1,19 @@
 ---
 ---
 
+h1 {
+  clear: both;
+}
+
 .speaker {
-  display: inline-block;
-  width: 31%;
-  vertical-align: top;
-  font-size: smaller;
-  line-height: 1.2em;
+  clear: both;
+  min-height: 92px;
   img {
-    display: block;
-    height: 150px;
-    width: 150px;
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    height: 92px;
+    width: 92px;
     border: 1px solid gray;
   }
 }
