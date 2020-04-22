@@ -70,11 +70,11 @@ LD @ [Huawei RRI](https://career.huawei.ru/rri/)
 
 12:00 Keynote
 
-12:30 Competition
+12:30 Competition (6 projects)
 
 14:00 Lunch
 
-15:00 Competition
+15:00 Competition (10 projects)
 
 17:30 Keynote
 
