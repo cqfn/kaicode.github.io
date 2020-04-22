@@ -1,0 +1,17 @@
+---
+---
+
+.speaker {
+  display: inline-block;
+  text-align: center;
+  width: 31%;
+  vertical-align: top;
+  font-size: smaller;
+  line-height: 1.2em;
+  img {
+    display: block;
+    height: 150px;
+    width: 150px;
+    border: 1px solid gray;
+  }
+}
