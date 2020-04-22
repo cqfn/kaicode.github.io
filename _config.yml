@@ -1,0 +1,32 @@
+title: KaiCode.org
+email: team@kaicode.org
+description: >
+  Annual Competition for Young Open Source Projects
+baseurl: ""
+url: "https://www.kaicode.org"
+markdown: kramdown
+author:
+  name: "Yegor Bugayenko"
+  email: yegor256@gmail.com
+encoding: utf-8
+timezone: Europe/Moscow
+permalink: :year-:month-:day-:title.html
+exclude:
+  - README.md
+  - Gemfile.lock
+  - Gemfile
+  - LICENSE.txt
+
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+
+feed:
+  title: www.kaicode.org
+  subtitle: Annual Competition for Young Open Source Projects
+  path: rss.xml
+
+sass:
+  style: compressed
+  deploy_style: compressed
+  compile_in_place: false
