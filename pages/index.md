@@ -90,5 +90,7 @@ Lab Director @ [Huawei RRI](https://career.huawei.ru/rri/)
 Total seats: 400
 
 The event is invite-only. To get an invitation you need to know
-someone who already has it. Don't know anyone? Try to
+someone who already has it and then
+[get a ticket here](https://kaicode.timepad.ru/event/1317705/).
+Don't know anyone? Try to
 [email us](mailto:tickets@kaicode.org).
