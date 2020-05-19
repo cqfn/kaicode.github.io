@@ -11,7 +11,7 @@ Moscow, Russia, Sat 5 Sep 2020
 {: .center}
 
 **KaiCode** is an annual one-day event held in Moscow to
-get together most promissing and emerging open
+get together the most promising and emerging open
 source projects, let them share their experience,
 and reward the best ones, to encourage them to keep moving.
 
