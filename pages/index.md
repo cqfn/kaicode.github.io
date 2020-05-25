@@ -7,10 +7,14 @@ description: |
   Annual Competition for Young Open Source Projects
 ---
 
-<form action="https://docs.google.com/forms/d/1Cp6MZKzloZ0dJWu22kRp0p2MthEvq3UHRW2W7zzSPUc">
-  <button type="submit">Apply Now</button>
+<div style="text-align: center">
+<form action="https://docs.google.com/forms/d/1Cp6MZKzloZ0dJWu22kRp0p2MthEvq3UHRW2W7zzSPUc" style="display: inline">
+  <button type="submit">Submit a Project</button>
 </form>
-{: .center}
+<form action="https://kaicode.timepad.ru/event/1317705/" style="display: inline">
+  <button type="submit">Get a Ticket</button>
+</form>
+</div>
 
 Moscow, Russia, Sat 5 Sep 2020
 {: .center}
