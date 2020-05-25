@@ -39,7 +39,7 @@ we will announce the list of 16 projects to be invited
 to the stage. If you will be one of them, we will pay you for
 the travel to Moscow (and a hotel) and will give you 15 minutes
 to present your baby in front of our jury.
-Up to five best projects will win and take home $3,000 each (in RUB).
+Three best projects will win and take home $5,000 each (in RUB).
 
 In order to win your project must be:
 
