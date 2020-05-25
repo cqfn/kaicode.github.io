@@ -19,6 +19,9 @@ description: |
 Moscow, Russia, Sat 5 Sep 2020
 {: .center}
 
+We are in Telegram: [@kaicode](https://t.me/kaicode)
+{: .center}
+
 **KaiCode** is an annual one-day event held in Moscow to
 get together the most promising and emerging open
 source projects, let them share their experience,
