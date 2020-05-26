@@ -33,6 +33,7 @@ and reward the best ones, to encourage them to keep moving.
 # Rules:
 
 Fill out [this form](https://docs.google.com/forms/d/1Cp6MZKzloZ0dJWu22kRp0p2MthEvq3UHRW2W7zzSPUc)
+(until the 1st of August)
 and your open source project
 immediately gets into the list of competitors. On the 1st of August
 we will announce the list of 16 projects to be invited
