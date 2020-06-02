@@ -210,7 +210,7 @@ wentout/mnemonica
 
     **A**: We won't. It will be tough to choose 16 of 100-200 projects, cause we know 
     (and you know better) that all projects are great, and they're all useful, simply because you 
-    were brave enough to share your creations with us. Therefor this is the most beautiful part of 
+    were brave enough to share your creations with us. Therefore, this is the most beautiful part of 
     this, don't you think?
 
 1.
