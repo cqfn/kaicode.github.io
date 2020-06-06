@@ -249,3 +249,13 @@ Any more questions, offers, or you just want to discuss something?
 
 You're welcome! Simply join our [Telegram group](https://t.me/kaicode). Our aim is to make you 
 comfortable there, so we take every notice into account and develop every day.
+
+# Our partners:
+
+<div style="text-align: center">
+<a href="https://www.alltechconferences.com/event/open-source-kaicode-summit/"><img src="/images/partners/AllTechConferences.jpg"></a>
+<a href="https://conferencealerts.org/event_detail.php?ev_id=333025"><img src="/images/partners/ConferenceAlerts.jpg"></a>
+<a href="https://devsday.ru/event/details/13948"><img src="/images/partners/DevsDay.png"></a>
+<a href="https://www.eventbrite.com/e/open-source-kaicode-summit-tickets-107841396520?aff=erelpanelorg"><img src="/images/partners/Eventbrite.jpg"></a>
+<a href="http://www.worldconferencecalendar.com/component/option,com_conference/page,show_ad/adid,54417/catid,82/Itemid,26/"><img src="/images/partners/WorldConferenceCalendar.jpg"></a>
+</div>
