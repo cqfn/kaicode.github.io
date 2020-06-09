@@ -249,3 +249,12 @@ Any more questions, offers, or you just want to discuss something?
 
 You're welcome! Simply join our [Telegram group](https://t.me/kaicode). Our aim is to make you 
 comfortable there, so we take every notice into account and develop every day.
+
+# Partners:
+
+[![tproger](/images/partners/tproger42.png)](https://tproger.ru/)
+[![alltech](/images/partners/AllTechConferences.jpg)](https://www.alltechconferences.com/event/open-source-kaicode-summit/)
+[![conferencealerts](/images/partners/ConferenceAlerts.jpg)](https://conferencealerts.org/event_detail.php?ev_id=333025)
+[![devsday](/images/partners/DevsDay.png)](https://devsday.ru/event/details/13948)
+[![eventbrite](/images/partners/Eventbrite.jpg)](https://www.eventbrite.com/e/open-source-kaicode-summit-tickets-107841396520?aff=erelpanelorg)
+[![worldconfcalendar](/images/partners/WorldConferenceCalendar.jpg)](http://www.worldconferencecalendar.com/component/option,com_conference/page,show_ad/adid,54417/catid,82/Itemid,26/)
