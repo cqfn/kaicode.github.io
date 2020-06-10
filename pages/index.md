@@ -84,7 +84,7 @@ Lab Director @ [Huawei RRI](https://career.huawei.ru/rri/)
 
 10:00 Registration
 
-11:00 Keynote
+11:00 Zhang Yuxin
 
 11:30 Vladimir Rubanov
 
