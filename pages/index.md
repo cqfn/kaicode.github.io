@@ -56,8 +56,10 @@ All 16 finalists will get some non-monetary rewards.
 
 # Speakers:
 
-![yegor](/images/face.jpg)
-Someone truly awesome
+![zhangyuxin](/images/zhangyuxin.jpg)
+[Zhang Yuxin](https://www.huaweicloud.com/intl/en-us/news/building-a-smart-future-with-full-stack-innovation-for-the-cloud.html)
+<br/>
+CTO @ [Huawei Cloud](https://www.huaweicloud.com)
 <br/>
 {: .speaker}
 
@@ -206,12 +208,12 @@ Don't know anyone? Try to
 
 # Frequently asked questions:
 
-**Q**: I have doubts about whether you'll discuss and think which project is good 
+**Q**: I have doubts about whether you'll discuss and think which project is good
 and which is bad. Will you be doing that?
 
-**A**: We won't. It will be tough to choose 16 of 100-200 projects, cause we know 
-(and you know better) that all projects are great, and they're all useful, simply because you 
-were brave enough to share your creations with us. Therefore, this is the most beautiful part of 
+**A**: We won't. It will be tough to choose 16 of 100-200 projects, cause we know
+(and you know better) that all projects are great, and they're all useful, simply because you
+were brave enough to share your creations with us. Therefore, this is the most beautiful part of
 this, don't you think?
 
 ---
@@ -223,23 +225,23 @@ I think would be very-very cool and bright. Should I do that?
 
 ---
 
-**Q**: I just want to attend KaiCode, but I don't know anyone with GitHub who has 
+**Q**: I just want to attend KaiCode, but I don't know anyone with GitHub who has
 booked his seat already. How can I join the summit?
 
-**A**: Don't worry, just join our [Telegram group](https://t.me/kaicode) and mention `@yegor256` 
+**A**: Don't worry, just join our [Telegram group](https://t.me/kaicode) and mention `@yegor256`
 in your message. He'll help you with that!
 
 ---
 
 **Q**:  I'm not from Moscow. Can I participate in spite of it?
 
-**A**:  It's not a problem, closer to August we'll help you book some nice variants to stay 
-at night, we're working now to get you the most comfortable place in the city 
+**A**:  It's not a problem, closer to August we'll help you book some nice variants to stay
+at night, we're working now to get you the most comfortable place in the city
 (and the closest to the summit itself).
 
 ---
 
-**Q**:  Is it possible to present or attend KaiCode online? 
+**Q**:  Is it possible to present or attend KaiCode online?
 
 **A**:  Yes, it is! However, we're hoping to see you all in real life.
 
@@ -247,5 +249,5 @@ at night, we're working now to get you the most comfortable place in the city
 
 Any more questions, offers, or you just want to discuss something?
 
-You're welcome! Simply join our [Telegram group](https://t.me/kaicode). Our aim is to make you 
+You're welcome! Simply join our [Telegram group](https://t.me/kaicode). Our aim is to make you
 comfortable there, so we take every notice into account and develop every day.
