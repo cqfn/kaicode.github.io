@@ -56,7 +56,7 @@ All 16 finalists will get some non-monetary rewards.
 
 # Speakers:
 
-![zhangyuxin](/images/zhangyuxin.jpg)
+![zhangyuxin](/images/zhangyuxin.png)
 [Zhang Yuxin](https://www.huaweicloud.com/intl/en-us/news/building-a-smart-future-with-full-stack-innovation-for-the-cloud.html)
 <br/>
 CTO @ [Huawei Cloud](https://www.huaweicloud.com)
