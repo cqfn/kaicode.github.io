@@ -112,99 +112,113 @@ Don't know anyone? Try to
 
 # Submitted projects:
 
-[muhammad-usama-aleem/glasses-to-aid-the-blind](https://github.com/muhammad-usama-aleem/glasses-to-aid-the-blind)
+  * [muhammad-usama-aleem/glasses-to-aid-the-blind](https://github.com/muhammad-usama-aleem/glasses-to-aid-the-blind)
 
-[nesbox/TIC-80](https://github.com/nesbox/TIC-80)
+  * [nesbox/TIC-80](https://github.com/nesbox/TIC-80)
 
-[ElmarDott/TP-CORE](https://github.com/ElmarDott/TP-CORE)
+  * [ElmarDott/TP-CORE](https://github.com/ElmarDott/TP-CORE)
 
-[TrueOpenVR](https://github.com/TrueOpenVR)
+  * [TrueOpenVR](https://github.com/TrueOpenVR)
 
-[McJtyMods/RFToolsControl](https://github.com/McJtyMods/RFToolsControl)
+  * [McJtyMods/RFToolsControl](https://github.com/McJtyMods/RFToolsControl)
 
-[HDouss/jeometry](https://github.com/HDouss/jeometry)
+  * [HDouss/jeometry](https://github.com/HDouss/jeometry)
 
-[reinterpretcat/vrp](https://github.com/reinterpretcat/vrp)
+  * [reinterpretcat/vrp](https://github.com/reinterpretcat/vrp)
 
-[CrocInc/sql-boot](https://github.com/CrocInc/sql-boot)
+  * [CrocInc/sql-boot](https://github.com/CrocInc/sql-boot)
 
-[sgjava/java-periphery](https://github.com/sgjava/java-periphery)
+  * [sgjava/java-periphery](https://github.com/sgjava/java-periphery)
 
-[igorwojda/android-showcase](https://github.com/igorwojda/android-showcase)
+  * [igorwojda/android-showcase](https://github.com/igorwojda/android-showcase)
 
-[PopovEvgeniy/SWGF](https://github.com/PopovEvgeniy/SWGF)
+  * [PopovEvgeniy/SWGF](https://github.com/PopovEvgeniy/SWGF)
 
-[cybercog/laravel-love](https://github.com/cybercog/laravel-love)
+  * [cybercog/laravel-love](https://github.com/cybercog/laravel-love)
 
-[onqtam/doctest](https://github.com/onqtam/doctest)
+  * [onqtam/doctest](https://github.com/onqtam/doctest)
 
-[msaaddev/github-interact-cli](https://github.com/msaaddev/github-interact-cli)
+  * [msaaddev/github-interact-cli](https://github.com/msaaddev/github-interact-cli)
 
-[wildfish/crispy-forms-gds](https://github.com/wildfish/crispy-forms-gds)
+  * [wildfish/crispy-forms-gds](https://github.com/wildfish/crispy-forms-gds)
 
-[gentee/gentee](https://github.com/gentee/gentee)
+  * [gentee/gentee](https://github.com/gentee/gentee)
 
-[flyimg/flyimg](https://github.com/flyimg/flyimg)
+  * [flyimg/flyimg](https://github.com/flyimg/flyimg)
 
-[reddec/trusted-cgi](https://github.com/reddec/trusted-cgi)
+  * [reddec/trusted-cgi](https://github.com/reddec/trusted-cgi)
 
-[javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
+  * [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
 
-[mayokunthefirst/Instant-Weather](https://github.com/mayokunthefirst/Instant-Weather)
+  * [mayokunthefirst/Instant-Weather](https://github.com/mayokunthefirst/Instant-Weather)
 
-[z7zmey/php-parser](https://github.com/z7zmey/php-parser)
+  * [z7zmey/php-parser](https://github.com/z7zmey/php-parser)
 
-[mangstadt/print-from-phone](https://github.com/mangstadt/print-from-phone)
+  * [mangstadt/print-from-phone](https://github.com/mangstadt/print-from-phone)
 
-[scalikejdbc/scalikejdbc](https://github.com/scalikejdbc/scalikejdbc)
+  * [scalikejdbc/scalikejdbc](https://github.com/scalikejdbc/scalikejdbc)
 
-[geftimov/android-pathview](https://github.com/geftimov/android-pathview)
+  * [geftimov/android-pathview](https://github.com/geftimov/android-pathview)
 
-[covid19cz/erouska-android](https://github.com/covid19cz/erouska-android)
+  * [covid19cz/erouska-android](https://github.com/covid19cz/erouska-android)
 
-[OpenFeign/feign](https://github.com/OpenFeign/feign)
+  * [OpenFeign/feign](https://github.com/OpenFeign/feign)
 
-[tyvik/geopuzzle](https://github.com/tyvik/geopuzzle)
+  * [tyvik/geopuzzle](https://github.com/tyvik/geopuzzle)
 
-[igorwojda/android-ecosystem-cheat-sheet](https://github.com/igorwojda/android-ecosystem-cheat-sheet)
+  * [igorwojda/android-ecosystem-cheat-sheet](https://github.com/igorwojda/android-ecosystem-cheat-sheet)
 
-[r57zone/EasyNotes](https://github.com/r57zone/EasyNotes)
+  * [r57zone/EasyNotes](https://github.com/r57zone/EasyNotes)
 
-[FagnerMartinsBrack/jack-the-moneylender](https://github.com/FagnerMartinsBrack/jack-the-moneylender)
+  * [FagnerMartinsBrack/jack-the-moneylender](https://github.com/FagnerMartinsBrack/jack-the-moneylender)
 
-[blazeey/Kafka-Man](https://github.com/blazeey/Kafka-Man)
+  * [blazeey/Kafka-Man](https://github.com/blazeey/Kafka-Man)
 
-[gulpjs/gulp](https://github.com/gulpjs/gulp)
+  * [gulpjs/gulp](https://github.com/gulpjs/gulp)
 
-[a5kin/xentica](https://github.com/a5kin/xentica)
+  * [a5kin/xentica](https://github.com/a5kin/xentica)
 
-[pixelpusher/liveprinter](https://github.com/pixelpusher/liveprinter)
+  * [pixelpusher/liveprinter](https://github.com/pixelpusher/liveprinter)
 
-[pmed/v8pp](https://github.com/pmed/v8pp)
+  * [pmed/v8pp](https://github.com/pmed/v8pp)
 
-[ligi/SurvivalManual](https://github.com/ligi/SurvivalManual)
+  * [ligi/SurvivalManual](https://github.com/ligi/SurvivalManual)
 
-[iakunin/codexia-bot](https://github.com/iakunin/codexia-bot)
+  * [iakunin/codexia-bot](https://github.com/iakunin/codexia-bot)
 
-[btraceio/btrace](https://github.com/btraceio/btrace)
+  * [btraceio/btrace](https://github.com/btraceio/btrace)
 
-[traccar/traccar](https://github.com/traccar/traccar)
+  * [traccar/traccar](https://github.com/traccar/traccar)
 
-[NexInput](https://github.com/NexInput)
+  * [NexInput](https://github.com/NexInput)
 
-[altiore/altiore.ui](https://github.com/altiore/altiore.ui)
+  * [altiore/altiore.ui](https://github.com/altiore/altiore.ui)
 
-[pholser/junit-quickcheck](https://github.com/pholser/junit-quickcheck)
+  * [pholser/junit-quickcheck](https://github.com/pholser/junit-quickcheck)
 
-[coderaiser/putout](https://github.com/coderaiser/putout)
+  * [coderaiser/putout](https://github.com/coderaiser/putout)
 
-[yuriykulikov/AlarmClock](https://github.com/yuriykulikov/AlarmClock)
+  * [yuriykulikov/AlarmClock](https://github.com/yuriykulikov/AlarmClock)
 
-[Guseyn/EHTML](https://github.com/Guseyn/EHTML)
+  * [Guseyn/EHTML](https://github.com/Guseyn/EHTML)
 
-[wentout/mnemonica](https://github.com/wentout/mnemonica)
+  * [wentout/mnemonica](https://github.com/wentout/mnemonica)
 
-[rey5137/jsonbatch](https://github.com/rey5137/jsonbatch)
+  * [rey5137/jsonbatch](https://github.com/rey5137/jsonbatch)
+  
+  * [yiisoft](https://github.com/yiisoft)
+  
+  * [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter)
+  
+  * [dgroup/lazylead](https://github.com/dgroup/lazylead)
+  
+  * [r57zone/EasyNotes](https://github.com/r57zone/EasyNotes)
+  
+  * [stagedml/stagedml](https://github.com/stagedml/stagedml)
+  
+  * [fleksl/Avatar-Maker](https://github.com/fleksl/Avatar-Maker)
+  
+  * [embox/embox](https://github.com/embox/embox)
 
 # Frequently asked questions:
 
