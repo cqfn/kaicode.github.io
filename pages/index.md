@@ -12,6 +12,7 @@ description: |
 <ins>8 Sep 2020</ins>:
 All our events are postponed until further notice.
 Why? Because of COVID-19 situation in Moscow.
+We are sorry :(
 
 <ins>27 Jun 2020</ins>:
 Our [first kaicode meetup](https://kaicode.timepad.ru/event/1340101/) (16th of July) had found our guests! We decided to invite well-known project [Tarantool](https://github.com/tarantool/tarantool) to our meetup. This project is a good example of how huge companies like mail.ru group can collaborate with open source community. Tarantool will be represented by [Sergey Ostanevich](https://github.com/sergos) and [Kirill Yukhin](https://github.com/kyukhin).
