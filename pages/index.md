@@ -8,6 +8,11 @@ description: |
   helping young and emerging projects find their way
   in open source.
 ---
+
+<ins>8 Sep 2020</ins>:
+All our events are postponed until further notice.
+Why? Because of COVID-19 situation in Moscow.
+
 <ins>27 Jun 2020</ins>:
 Our [first kaicode meetup](https://kaicode.timepad.ru/event/1340101/) (16th of July) had found our guests! We decided to invite well-known project [Tarantool](https://github.com/tarantool/tarantool) to our meetup. This project is a good example of how huge companies like mail.ru group can collaborate with open source community. Tarantool will be represented by [Sergey Ostanevich](https://github.com/sergos) and [Kirill Yukhin](https://github.com/kyukhin).
 Sergey Ostanevich - software architect at Mail.ru. Sergos is an engineer with more than 20 years of experience, before Mail.ru he worked at Intel and Samsung. Kirill Yukhin is an engineering team lead at Mail.ru. Kirill has big experience in the development of optimizing compilers. He was teaching in MIPT and before Mail.ru Kirill more than 10 years worked at Intel.
