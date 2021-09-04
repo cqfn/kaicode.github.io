@@ -9,6 +9,13 @@ description: |
   in open source.
 ---
 
+<iframe style="border: 1px solid gray; float: right" class="video" src="https://www.youtube.com/embed/8zB-Ovc26r4?controls=2" frameborder="0" allowfullscreen="yes">&#8203;</iframe>
+<ins>25 Aug 2021</ins>:
+We interviewed Ilya Sher, the author of [NGS-lang](https://github.com/ngs-lang/ngs),
+a powerful programming language and a shell designed specifically for Ops.
+We are planning to record such interviews every week. If you want to 
+present your project, just [email us](mailto:team@kaicode.org).
+
 <ins>8 Sep 2020</ins>:
 All our events are postponed until further notice.
 Why? Because of COVID-19 situation in Moscow.
