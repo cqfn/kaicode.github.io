@@ -9,6 +9,13 @@ description: |
   in open source.
 ---
 
+<ins>19 Sep 2021</ins>:
+This year [Yegor's Quality Award](https://www.yegor256.com/2020/11/15/award-2021.html) 
+will be partially sponsored by KaiCode. You are welcome to submit your 
+open source project using this form and later in November winners
+will be announced. Some of them will get special monetary 
+rewards directly from KaiCode.
+
 <iframe style="border: 1px solid gray; float: right" class="video" src="https://www.youtube.com/embed/OMT2uouK__8?controls=2" frameborder="0" allowfullscreen="yes">&#8203;</iframe>
 <ins>14 Sep 2021</ins>:
 We interviewed [Vitaly R. Samigullin](https://github.com/pilosus), 
