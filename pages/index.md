@@ -9,9 +9,17 @@ description: |
   in open source.
 ---
 
+<iframe style="border: 1px solid gray; float: right" class="video" src="https://www.youtube.com/embed/OMT2uouK__8?controls=2" frameborder="0" allowfullscreen="yes">&#8203;</iframe>
+<ins>14 Sep 2021</ins>:
+We interviewed [Vitaly R. Samigullin](https://github.com/pilosus), 
+the author of [pip-license-checker](https://github.com/pilosus/pip-license-checker),
+a license compliance tool, which detects license names and types for 
+Python PyPI packages.
+
 <iframe style="border: 1px solid gray; float: right" class="video" src="https://www.youtube.com/embed/8zB-Ovc26r4?controls=2" frameborder="0" allowfullscreen="yes">&#8203;</iframe>
 <ins>25 Aug 2021</ins>:
-We interviewed Ilya Sher, the author of [NGS-lang](https://github.com/ngs-lang/ngs),
+We interviewed [Ilya Sher](https://github.com/ilyash), 
+the author of [NGS-lang](https://github.com/ngs-lang/ngs),
 a powerful programming language and a shell designed specifically for Ops.
 We are planning to record such interviews every week. If you want to 
 present your project, just [email us](mailto:team@kaicode.org).
