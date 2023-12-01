@@ -1,7 +1,7 @@
 ---
 layout: default
 date: 2020-04-22
-title: "KaiCode"
+title: "Kaicode: Open Source Festival"
 permalink: /index.html
 description: |
   We get together a community of enthusiasts,
@@ -9,56 +9,100 @@ description: |
   in open source.
 ---
 
-<ins>19 Sep 2021</ins>:
-This year [Yegor's Quality Award](https://www.yegor256.com/2020/11/15/award-2021.html) 
-will be partially sponsored by KaiCode. You are welcome to submit your 
-open source project using [this form](https://docs.google.com/forms/d/1mf0IGryvAhUnIbbhemXPSbIXxE21e190MyQdKuEY_zw) 
-and later in November a few winners will be announced. Some of them will get special monetary 
-rewards directly from KaiCode.
+Since [2015](https://www.yegor256.com/award.html), 
+Kaicode is an open source **festival**.
 
-<iframe style="border: 1px solid gray; float: right" class="video" src="https://www.youtube.com/embed/OMT2uouK__8?controls=2" frameborder="0" allowfullscreen="yes">&#8203;</iframe>
-<ins>14 Sep 2021</ins>:
-We interviewed [Vitaly R. Samigullin](https://github.com/pilosus), 
-the author of [pip-license-checker](https://github.com/pilosus/pip-license-checker),
-a license compliance tool, which detects license names and types for 
-Python PyPI packages.
+This is how it works:
+First, you submit your open source product to us.
+Then, our jury reviews it.
+If your product wins, we give you a monetary reward 
+and a laurel badge that you can attach to your README file.
 
-<iframe style="border: 1px solid gray; float: right" class="video" src="https://www.youtube.com/embed/8zB-Ovc26r4?controls=2" frameborder="0" allowfullscreen="yes">&#8203;</iframe>
-<ins>25 Aug 2021</ins>:
-We interviewed [Ilya Sher](https://github.com/ilyash), 
-the author of [NGS-lang](https://github.com/ngs-lang/ngs),
-a powerful programming language and a shell designed specifically for Ops.
-We are planning to record such interviews every week. If you want to 
-present your project, just [email us](mailto:team@kaicode.org).
+In order to get into the competition, your product must be:
 
-<ins>8 Sep 2020</ins>:
-All our events are postponed until further notice.
-Why? Because of COVID-19 situation in Moscow.
-We are sorry :(
+  * Hosted on GitHub
+  * Larger than 4,000 lines of code
+  * Older than 12 months
 
-<ins>27 Jun 2020</ins>:
-Our [first kaicode meetup](https://kaicode.timepad.ru/event/1340101/) (16th of July) had found our guests! We decided to invite well-known project [Tarantool](https://github.com/tarantool/tarantool) to our meetup. This project is a good example of how huge companies like mail.ru group can collaborate with open source community. Tarantool will be represented by [Sergey Ostanevich](https://github.com/sergos) and [Kirill Yukhin](https://github.com/kyukhin).
-Sergey Ostanevich - software architect at Mail.ru. Sergos is an engineer with more than 20 years of experience, before Mail.ru he worked at Intel and Samsung. Kirill Yukhin is an engineering team lead at Mail.ru. Kirill has big experience in the development of optimizing compilers. He was teaching in MIPT and before Mail.ru Kirill more than 10 years worked at Intel.
+In order to win, your product must be developed with the highest quality of code and process. 
+In particular, the jury pays attention to the following:
 
-<ins>20 Jun 2020</ins>:
-The [first meetup](https://kaicode.timepad.ru/event/1340101/) will happen on the 16th of July in Moscow.
-We are thinking about the first guest. If you know someone
-awesome with their own open source projects,
-[send them](https://t.me/kaicode_org) our way.
+  * Clean code
+  * Design choices
+  * Style checking
+  * Static analysis
+  * Unit testing
+  * Integration testing
+  * Test coverage control
+  * Documentation
+  * Git branching
+  * Bug tracking
+  * CI/CD
 
-<ins>18 Jun 2020</ins>:
-We created a Telegram channel [@kaicode](https://t.me/kaicode),
-to share the news, which we have about
-our events and the community we build.
+It doesn't matter how popular is your product and what programming language do you use.
 
-<ins>26 Apr 2020</ins>:
-The [first big event](/main-2020.html) is planned on the 5th of Sep, 2020. It is supposed
-to get together at least 16 interesting open source project founders
-and let them share their experience. The best one will get a donation
-from Huawei (around $5,000).
+We reserve the right to reject any product without any explanation.
 
-<ins>22 Apr 2020</ins>:
-[KaiCode](https://www.kaicode.org) is founded, to get together a community of open source
-enthusiasts and help young/emerging projects find their way
-to users and sponsors. KaiCode initiative is sponsored by
-[Huawei](https://www.huawei.com).
+# Rewards
+
+There are three nominations:
+
+<img src="images/laurel-perfect.svg" alt="sample laurel badge"/><br/>
+Perfect Product:<br/>
+$2,000
+{: .laurel}
+
+<img src="images/laurel-excellent.svg" alt="sample laurel badge"/><br/>
+Excellent Product:<br/>
+$1,000
+{: .laurel}
+
+<img src="images/laurel-awesome.svg" alt="sample laurel badge"/><br/>
+Awesome Product:<br/>
+$500
+{: .laurel}
+
+The money will be sent to you in Bitcoins.
+
+# Jury
+
+We are still forming the jury.
+
+If you are interested in joining, please [email us](mailto:jury@kaicode.org).
+
+# Important Dates
+
+Project submission:<br/>
+31 May 2024 ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
+
+Authors notification:<br/>
+1 July 2024
+
+# How to Submit
+
+Submit your product through 
+[this form](https://docs.google.com/forms/d/18FjK2MCe7etrfJmsKKOiQXWJO0EF-40Bac8TLgBSmFs).
+
+# Sponsors
+
+We are still forming the board of sponsors.
+
+If you are interested in joining, please [email us](mailto:sponsor@kaicode.org).
+
+# Organizers
+
+These people organize Kaicode (in alphabetic order):
+
+![maxonfjvipon](/images/orgs/maxonfjvipon.jpg)
+[@maxonfjvipon](https://github.com/maxonfjvipon)
+{: .org}
+
+![volodya-lombrozo](/images/orgs/volodya-lombrozo.jpg)
+[@volodya-lombrozo](https://github.com/volodya-lombrozo)
+{: .org}
+
+![yegor256](/images/orgs/yegor256.jpg)
+[@yegor256](https://github.com/yegor256)
+{: .org}
+
+If you are ready to help, please [email](mailto:orgs@kaicode.org).

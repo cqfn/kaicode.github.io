@@ -1,17 +1,19 @@
 ---
 ---
 @charset 'utf-8';
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+$width: 36em;
 
 body {
-  font-family: 'Inconsolata', monospace;
-  font-size: 22px;
+  font-family: 'Noto Sans', monospace;
+  font-size: 20px;
   line-height: 1.3em;
   padding: 1em;
 }
 
 section {
-  width: 30em;
+  width: $width;
   max-width: 100%;
   margin-left: auto;
   margin-right: auto;
@@ -23,11 +25,45 @@ section {
     .front {
       width: 100%;
     }
+    strong {
+      text-decoration: underline;
+    }
+    h1 {
+      font-weight: bold;
+      font-size: 125%;
+      color: #BF2828;
+    }
+    .laurel {
+      width: .25 * $width;
+      display: inline-block;
+      text-align: left;
+      img {
+        width: 4em;
+        text-align: left;
+      }
+    }
+    .org {
+      display: inline-block;
+      width: .3 * $width;
+      vertical-align: top;
+      font-size: 80%;
+      font-family: monospace;
+      img {
+        display: block;
+        margin: 0;
+        height: 92px;
+        width: 92px;
+        border: 1px solid lightgray;
+      }
+    }
   }
   footer {
     text-align: center;
     font-size: 0.8em;
     color: gray;
+    p {
+      margin: 0;
+    }
   }
 }
 
