@@ -9,14 +9,12 @@ description: |
   in open source.
 ---
 
-Since [2015](https://www.yegor256.com/award.html), 
-Kaicode is an open source **festival**.
+Kaicode is an open source **festival**,
+started in [2015](https://www.yegor256.com/award.html).
 
-This is how it works:
-First, you submit your open source product to us.
-Then, our jury reviews it.
-If your product wins, we give you a monetary reward 
-and a laurel badge that you can attach to your README file.
+This is how it works: First, you submit your open-source product to us. 
+Then, our jury will review it. If your product wins, we give you 
+a monetary reward and a laurel badge that you can attach to your README file.
 
 In order to get into the competition, your product must be:
 
@@ -24,7 +22,8 @@ In order to get into the competition, your product must be:
   * Larger than 4,000 lines of code
   * Older than 12 months
 
-In order to win, your product must be developed with the highest quality of code and process. 
+To win, your product must demonstrate the highest 
+quality of code and development processes. 
 In particular, the jury pays attention to the following:
 
   * Clean code
@@ -39,9 +38,9 @@ In particular, the jury pays attention to the following:
   * Bug tracking
   * CI/CD
 
-It doesn't matter how popular is your product and what programming language do you use.
+It doesn’t matter how popular your product is or what programming language you use.
 
-We reserve the right to reject any product without any explanation.
+We reserve the right to reject any product without explanation.
 
 # Rewards
 
