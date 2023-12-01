@@ -29,15 +29,16 @@ In particular, the jury pays attention to the following:
   * Clean code
   * Design choices
   * Style checking
-  * Static analysis
-  * Unit testing
-  * Integration testing
-  * Test coverage control
+  * [Code reviews](https://en.wikipedia.org/wiki/Code_review) 
+  * [Static analysis](https://en.wikipedia.org/wiki/Static_program_analysis)
+  * [Unit testing](https://en.wikipedia.org/wiki/Unit_testing)
+  * [Integration testing](https://en.wikipedia.org/wiki/Integration_testing)
+  * [Code coverage control](https://en.wikipedia.org/wiki/Code_coverage)
   * Documentation
-  * Git branching
-  * Bug tracking
-  * Continuous Integration
-  * Releases
+  * [Git branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+  * [Bug](https://en.wikipedia.org/wiki/Bug_tracking_system) and [issue](https://en.wikipedia.org/wiki/Issue_tracking_system) tracking
+  * [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)
+  * [Releases](https://en.wikipedia.org/wiki/Software_release_life_cycle)
 
 It doesn’t matter how popular your product is or what programming language you use.
 
