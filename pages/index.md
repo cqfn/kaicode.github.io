@@ -39,7 +39,7 @@ In particular, the jury pays attention to the following:
   * [Git branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
   * [Bug](https://en.wikipedia.org/wiki/Bug_tracking_system) and [issue](https://en.wikipedia.org/wiki/Issue_tracking_system) tracking
   * [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)
-  * [Releases](https://en.wikipedia.org/wiki/Software_release_life_cycle)
+  * [Releases](https://en.wikipedia.org/wiki/Software_release_life_cycle) and [semantic versioning](https://semver.org/)
 
 It doesn’t matter how popular your product is or what programming language you use.
 
