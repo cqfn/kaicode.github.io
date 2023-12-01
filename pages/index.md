@@ -49,17 +49,17 @@ There are three nominations:
 
 <img src="images/laurel-perfect.svg" alt="sample laurel badge"/><br/>
 Perfect Product:<br/>
-$2,000
+$2,048
 {: .laurel}
 
 <img src="images/laurel-excellent.svg" alt="sample laurel badge"/><br/>
 Excellent Product:<br/>
-$1,000
+$1,024
 {: .laurel}
 
 <img src="images/laurel-awesome.svg" alt="sample laurel badge"/><br/>
 Awesome Product:<br/>
-$500
+$512
 {: .laurel}
 
 The money will be sent to you in Bitcoins.
