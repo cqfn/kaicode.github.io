@@ -14,7 +14,8 @@ started in [2015](https://www.yegor256.com/award.html).
 
 This is how it works: First, you submit your open-source product to us. 
 Then, our jury will review it. If your product wins, we give you 
-a monetary reward and a laurel badge that you can attach to your README file.
+a monetary reward and a laurel badge that you can attach to your 
+[README file](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
 
 In order to get into the competition, your product must be:
 
