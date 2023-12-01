@@ -94,15 +94,15 @@ If you are interested in joining, please [email us](mailto:sponsor@kaicode.org).
 These people organize Kaicode (in alphabetic order):
 
 ![maxonfjvipon](/images/orgs/maxonfjvipon.jpg)
-[@maxonfjvipon](https://github.com/maxonfjvipon)
+[Max](https://github.com/maxonfjvipon)
 {: .org}
 
 ![volodya-lombrozo](/images/orgs/volodya-lombrozo.jpg)
-[@volodya-lombrozo](https://github.com/volodya-lombrozo)
+[Volodya](https://github.com/volodya-lombrozo)
 {: .org}
 
 ![yegor256](/images/orgs/yegor256.jpg)
-[@yegor256](https://github.com/yegor256)
+[Yegor](https://github.com/yegor256)
 {: .org}
 
 If you are ready to help, please [email](mailto:orgs@kaicode.org).

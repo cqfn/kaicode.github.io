@@ -44,10 +44,8 @@ section {
     }
     .org {
       display: inline-block;
-      width: .3 * $width;
+      width: .16 * $width;
       vertical-align: top;
-      font-size: 80%;
-      font-family: monospace;
       img {
         display: block;
         margin: 0;
