@@ -18,8 +18,8 @@ a monetary reward and a laurel badge that you can attach to your README file.
 
 In order to get into the competition, your product must be:
 
-  * Hosted on GitHub
-  * Larger than 4,000 lines of code
+  * Hosted on [GitHub](https://github.com)
+  * Larger than 4,000 [SLOC](https://en.wikipedia.org/wiki/Source_lines_of_code)
   * Older than 12 months
 
 To win, your product must demonstrate the highest 
