@@ -25,13 +25,14 @@ section {
     .front {
       width: 100%;
     }
-    strong {
-      text-decoration: underline;
-    }
     h1 {
       font-weight: bold;
       font-size: 125%;
       color: #BF2828;
+    }
+    a {
+      text-decoration: underline;
+      color: inherit;
     }
     .laurel {
       width: .16 * $width;

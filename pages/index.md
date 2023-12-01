@@ -9,7 +9,7 @@ description: |
   in open source.
 ---
 
-Kaicode is an annual open source **festival**,
+Kaicode is an annual open source festival,
 started in [2015](https://www.yegor256.com/award.html).
 
 This is how it works: First, you submit your open-source product to us. 
