@@ -36,7 +36,8 @@ In particular, the jury pays attention to the following:
   * Documentation
   * Git branching
   * Bug tracking
-  * CI/CD
+  * Continuous Integration
+  * Releases
 
 It doesn’t matter how popular your product is or what programming language you use.
 
