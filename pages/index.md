@@ -83,7 +83,7 @@ Each member of the jury reviews up to four projects. In each review we expect to
   * Quick summary of the project architecture
   * 4+ major quality issues
   * 4+ minor quality issues
-  * Conclusion: strong reject, neutral, accept, strong accept
+  * Conclusion: strong reject, reject, neutral, accept, strong accept
 
 If you are interested in joining, please [email us](mailto:jury@kaicode.org).
 
