@@ -45,6 +45,17 @@ layout: compress
             {% endfor %}
           </ul>
         </nav>
+        <nav style="font-size:0.8em;">
+          <ul>
+            {% for hash in site.breadcrumbs %}
+              {% for b in hash %}
+                <li>
+                  <a href="{% if b[0] contains '/' %}{% else %}#{% endif %}{{ b[0] }}">{{ b[1] }}</a>
+                </li>
+              {% endfor %}
+            {% endfor %}
+          </ul>
+        </nav>
       </header>
       <article>
         {{ content }}
