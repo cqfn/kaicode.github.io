@@ -20,6 +20,7 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 feed:
   title: www.kaicode.org
