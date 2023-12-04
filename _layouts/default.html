@@ -34,6 +34,17 @@ layout: compress
             <li><a href="mailto:team@kaicode.org" title="Send us an email"><i class="larger icon icon-mail"></i></a></li>
           </ul>
         </nav>
+        <nav>
+          <ul>
+            {% for hash in page.breadcrumbs %}
+              {% for b in hash %}
+                <li>
+                  <a href="{% if b[0] contains '/' %}{% else %}#{% endif %}{{ b[0] }}">{{ b[1] }}</a>
+                </li>
+              {% endfor %}
+            {% endfor %}
+          </ul>
+        </nav>
       </header>
       <article>
         {{ content }}

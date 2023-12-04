@@ -7,6 +7,11 @@ description: |
   We get together a community of enthusiasts,
   helping young and emerging projects find their way
   in open source.
+breadcrumbs:
+  - rewards: Rewards
+  - jury: Jury
+  - dates: Important&nbsp;Dates
+  - submit: Submit
 ---
 
 Kaicode is an annual open source festival,
@@ -71,10 +76,18 @@ The money will be sent to you in Bitcoins.
 # Jury
 
 We are still forming the jury.
+{: .firebrick}
+
+Each member of the jury reviews up to four projects. In each review we expect to see:
+
+  * Quick summary of the project architecture
+  * 4+ major quality issues
+  * 4+ minor quality issues
+  * Conclusion: strong reject, neutral, accept, strong accept
 
 If you are interested in joining, please [email us](mailto:jury@kaicode.org).
 
-# Important Dates
+# Important Dates # {#dates}
 
 Project submission:<br/>
 31 May 2024 ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
@@ -82,7 +95,7 @@ Project submission:<br/>
 Authors notification:<br/>
 1 July 2024
 
-# How to Submit
+# How to Submit # {#submit}
 
 Submit your product through 
 [this form](https://docs.google.com/forms/d/18FjK2MCe7etrfJmsKKOiQXWJO0EF-40Bac8TLgBSmFs).
@@ -90,6 +103,7 @@ Submit your product through
 # Sponsors
 
 We are still forming the board of sponsors.
+{: .firebrick}
 
 If you are interested in joining, please [email us](mailto:sponsor@kaicode.org).
 
