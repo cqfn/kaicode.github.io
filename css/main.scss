@@ -56,6 +56,19 @@ section {
         border: 1px solid lightgray;
       }
     }
+    .jury {
+      display: inline-block;
+      width: .16 * $width;
+      vertical-align: top;
+      img {
+        filter: grayscale(100%);
+        display: block;
+        margin: 0;
+        height: 4em;
+        width: 4em;
+        border: 1px solid lightgray;
+      }
+    }
   }
   footer {
     text-align: center;
