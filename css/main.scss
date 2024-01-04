@@ -61,6 +61,7 @@ section {
       width: .16 * $width;
       vertical-align: top;
       img {
+        border-radius: 50%;
         filter: grayscale(100%);
         display: block;
         margin: 0;
