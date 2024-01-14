@@ -44,29 +44,19 @@ section {
         text-align: left;
       }
     }
-    .org {
-      display: inline-block;
-      width: .16 * $width;
-      vertical-align: top;
-      img {
-        display: block;
-        margin: 0;
-        height: 4em;
-        width: 4em;
-        border: 1px solid lightgray;
-      }
-    }
     .jury {
       display: inline-block;
-      width: .16 * $width;
+      width: .2 * $width;
       vertical-align: top;
+      font-family: monospace;
+      overflow-wrap: break-word;
+      font-size: 0.8em;
       img {
         border-radius: 50%;
-        filter: grayscale(100%);
         display: block;
         margin: 0;
-        height: 4em;
-        width: 4em;
+        height: 5em;
+        width: 5em;
         border: 1px solid lightgray;
       }
     }
