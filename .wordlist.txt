@@ -3,3 +3,5 @@ KaiCode
 SLOC
 FP
 OOP
+permalink
+html
