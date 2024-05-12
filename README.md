@@ -17,4 +17,3 @@ In a few seconds you should be able to see the site
 at `http://localhost:4000`. Make your changes and refresh
 the page in the browser.
 If everything is fine, submit a pull request.
-
