@@ -20,44 +20,24 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 ---
-title: KaiCode.org
-email: team@kaicode.org
-description: >
-  Annual Competition for Young Open Source Projects
-baseurl: ""
-url: "https://www.kaicode.org"
-markdown: kramdown
-author:
-  name: "Yegor Bugayenko"
-  email: yegor256@gmail.com
-encoding: utf-8
-timezone: Europe/Moscow
-permalink: :year-:month-:day-:title.html
-exclude:
-  - README.md
-  - Gemfile.lock
-  - Gemfile
-  - LICENSE.txt
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-redirect-from
-
-feed:
-  title: www.kaicode.org
-  subtitle: Annual Competition for Young Open Source Projects
-  path: rss.xml
-
-sass:
-  style: compressed
-  deploy_style: compressed
-  compile_in_place: false
-
-breadcrumbs:
-  - https://www.yegor256.com/2015/04/16/award.html: 2015
-  - https://www.yegor256.com/2015/10/17/award-2016.html: 2016
-  - https://www.yegor256.com/2016/10/23/award-2017.html: 2017
-  - https://www.yegor256.com/2017/10/24/award-2018.html: 2018
-  - https://www.yegor256.com/2018/09/30/award-2019.html: 2019
-  - https://www.yegor256.com/2019/11/03/award-2020.html: 2020
+name: actionlint
+'on':
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+jobs:
+  actionlint:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download actionlint
+        id: get_actionlint
+        # yamllint disable-line rule:line-length
+        run: bash <(curl https://raw.githubusercontent.com/rhysd/actionlint/main/scripts/download-actionlint.bash)
+        shell: bash
+      - name: Check workflow files
+        run: ${{ steps.get_actionlint.outputs.executable }} -color
+        shell: bash

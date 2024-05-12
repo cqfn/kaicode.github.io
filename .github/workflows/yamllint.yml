@@ -1,6 +1,4 @@
-# (The MIT License)
-#
-# Copyright (c) 2021-2024 Yegor Bugayenko
+# Copyright (c) 2024 Yegor Bugayenko
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the 'Software'), to deal
@@ -20,7 +18,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 ---
-name: jekyll
+name: yamllint
 'on':
   push:
     branches:
@@ -29,12 +27,8 @@ name: jekyll
     branches:
       - master
 jobs:
-  jekyll:
+  yamllint:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
-      - uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 3.1
-      - run: bundle install
-      - run: bundle exec jekyll build
+      - uses: ibiqlik/action-yamllint@v3
