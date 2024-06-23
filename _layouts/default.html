@@ -17,6 +17,13 @@ layout: compress
     <script src="https://code.jquery.com/jquery-1.9.0.min.js"></script>
     <script>
       $(function() {
+        $(".count-them").each(function() {
+          let $p = $(this);
+          let $ul = $p.next();
+          let c = $ul.find('li').length;
+          let rep = '<strong>' + c + ' repositor' + (c > 1 ? 'ies' : 'y') + '</strong>';
+          $p.html($p.html().replace('XXX', rep));
+        });
         $(".long-list").before('<p><a href="#" onclick="$(this).parent().next().show(); $(this).parent().hide(); return false;">Click here to see the list</a></p>');
       });
     </script>
