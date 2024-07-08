@@ -44,6 +44,15 @@ section {
         text-align: left;
       }
     }
+    .winner {
+      text-align: left;
+      img {
+        height: 4em;
+        text-align: left;
+        float: left;
+        margin-right: 1em;
+      }
+    }
     .jury {
       display: inline-block;
       width: .2 * $width;
