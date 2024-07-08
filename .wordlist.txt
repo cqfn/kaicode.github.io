@@ -10,3 +10,4 @@ changelog
 customizable
 triaging
 Pinia
+ORM
