@@ -5,3 +5,8 @@ FP
 OOP
 permalink
 html
+linters
+changelog
+customizable
+triaging
+Pinia
