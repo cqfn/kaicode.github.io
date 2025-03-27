@@ -5,12 +5,12 @@
 
 source 'https://rubygems.org'
 
-gem 'jekyll', '4.3.2'
-gem 'jekyll-bits', '0.15'
-gem 'jekyll-redirect-from', '0.16.0'
-gem 'jekyll-feed', '0.17.0'
-gem 'jekyll-paginate', '1.1.0'
-gem 'jekyll-sitemap', '1.4.0'
+gem 'jekyll', '~>4.3'
+gem 'jekyll-bits', '~>0.15'
+gem 'jekyll-redirect-from', '~>0.16'
+gem 'jekyll-feed', '~>0.17'
+gem 'jekyll-paginate', '~>1.1'
+gem 'jekyll-sitemap', '~>1.4'
 
 gem "tzinfo", "~> 2.0"
 gem "tzinfo-data", platforms: [:x64_mingw, :mingw, :mswin]
