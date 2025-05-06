@@ -1,12 +1,12 @@
-.DS_Store
+_site/
 .bundle/
+.DS_Store
 .idea
 .idea/
 .yardoc/
-Gemfile.lock
-_site/
 coverage/
 doc/
+Gemfile.lock
 node_modules/
 rdoc/
 vendor/
