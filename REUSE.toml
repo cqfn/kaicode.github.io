@@ -4,7 +4,6 @@
 version = 1
 [[annotations]]
 path = [
-    "xlsx/kaicode-2024.xlsx",
     ".DS_Store",
     ".gitattributes",
     ".gitignore",
@@ -31,6 +30,7 @@ path = [
     "Gemfile.lock",
     "README.md",
     "renovate.json",
+    "xlsx/kaicode-2024.xlsx",
 ]
 precedence = "override"
 SPDX-FileCopyrightText = "Copyright (c) 2025 Yegor Bugayenko"
