@@ -18,7 +18,7 @@ gem "tzinfo-data", platforms: [:x64_mingw, :mingw, :mswin]
 # It is possible that you'll bump into some problems while setting up Ruby and Bundler,
 # for example `TZInfo::DataSourceNotFound` while attempting to connect
 # to a server (if you're a Windows user). This happens because TZInfo needs to
-# get a sourse of timezone data on your computer, but it fails. On many Unix-based
+# get a source of timezone data on your computer, but it fails. On many Unix-based
 # systems (e.g. Linux), TZInfo is able to use the system zoneinfo directory
 # as a source of data. However, Windows doesn't include such a directory,
 # so the 'tzinfo-data' gem needs to be installed instead. The 'tzinfo-data' gem
