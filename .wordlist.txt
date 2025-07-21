@@ -11,3 +11,5 @@ customizable
 triaging
 Pinia
 ORM
+ERC
+USDT
