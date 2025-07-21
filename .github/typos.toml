@@ -5,4 +5,3 @@
 extend-ignore-identifiers-re = [
   "repositor",        # valid literal, for example 'repositor + ies/y'
 ]
-
