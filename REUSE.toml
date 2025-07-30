@@ -30,7 +30,7 @@ path = [
     "Gemfile.lock",
     "README.md",
     "renovate.json",
-    "xlsx/kaicode-2024.xlsx",
+    "xlsx/*.xlsx",
 ]
 precedence = "override"
 SPDX-FileCopyrightText = "Copyright (c) 2025 Yegor Bugayenko"
