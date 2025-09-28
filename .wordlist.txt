@@ -13,3 +13,7 @@ Pinia
 ORM
 ERC
 USDT
+SPDX
+codebase
+README
+PRs
