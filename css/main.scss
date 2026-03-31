@@ -3,12 +3,21 @@
 # SPDX-License-Identifier: MIT
 ---
 @charset 'utf-8';
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+@font-face {
+  font-family: Consolas;
+  src: url('https://www.yegor256.com/fonts/consolas/regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+$red: #B22222;
+$silver: #a4a0a0;
 
 $width: 36em;
 
 body {
-  font-family: 'Noto Sans', monospace;
+  font-family: 'Consolas', monospace;
   font-size: 20px;
   line-height: 1.3em;
   padding: 1em;
@@ -28,9 +37,8 @@ section {
       width: 100%;
     }
     h2 {
-      font-weight: bold;
       font-size: 125%;
-      color: #BF2828;
+      color: $red;
     }
     a {
       text-decoration: underline;
@@ -59,7 +67,6 @@ section {
       display: inline-block;
       width: .2 * $width;
       vertical-align: top;
-      font-family: monospace;
       overflow-wrap: break-word;
       font-size: 0.8em;
       img {
@@ -68,7 +75,7 @@ section {
         margin: 0;
         height: 5em;
         width: 5em;
-        border: 1px solid lightgray;
+        border: 1px solid $silver;
       }
     }
   }
@@ -81,7 +88,7 @@ section {
     }
   }
   strong {
-    color: #BF2828;
+    color: $red;
   }
   .long-list {
     display: none;
