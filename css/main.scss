@@ -4,12 +4,7 @@
 ---
 @charset 'utf-8';
 
-@font-face {
-  font-family: Consolas;
-  src: url('https://www.yegor256.com/fonts/consolas/regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
 
 $red: #B22222;
 $silver: #a4a0a0;
@@ -17,7 +12,7 @@ $silver: #a4a0a0;
 $width: 36em;
 
 body {
-  font-family: 'Consolas', monospace;
+  font-family: 'PT Mono', monospace;
   font-size: 20px;
   line-height: 1.3em;
   padding: 1em;
