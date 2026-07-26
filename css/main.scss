@@ -10,6 +10,7 @@
        url('/fonts/cmuntt.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
+  font-display: block;
 }
 
 @font-face {
@@ -18,6 +19,7 @@
        url('/fonts/cmuntb.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
+  font-display: block;
 }
 
 @font-face {
@@ -26,6 +28,7 @@
        url('/fonts/cmunrm.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
+  font-display: block;
 }
 
 @font-face {
@@ -34,6 +37,7 @@
        url('/fonts/cmunbx.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
+  font-display: block;
 }
 
 $red: #B22222;
