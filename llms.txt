@@ -1,0 +1,53 @@
+# KaiCode
+
+> KaiCode is an annual open source festival that rewards young and emerging
+  GitHub repositories for the quality of their code and development processes.
+  It started in 2015 and runs once a year.
+
+Everybody is welcome to submit.
+There is no fee, no invitation, and no shortlist of favored languages or
+  ecosystems.
+You submit a repository through a public form, our jury reviews it, and if it
+  wins you receive a monetary reward and a laurel badge for your README file.
+
+To enter, a repository must be hosted on GitHub, be larger than 4,000 SLOC, be
+  older than 12 months and younger than 60 months since its first commit, and
+  must not have won KaiCode before.
+One GitHub user may submit only one project.
+Jury members and festival organizers may not submit their own projects.
+
+The jury judges clean code, design choices, coding conventions, static
+  analysis, unit and integration testing, code coverage, requirements,
+  documentation, Git branching, bug and issue tracking, code reviews,
+  continuous integration, releases and semantic versioning, and licensing.
+Popularity, programming language, license, and paradigm do not matter.
+
+Rewards are given in three nominations: Perfect Product ($2,048), Excellent
+  Product ($1,024), and Awesome Product ($512), paid in Bitcoin or ERC20 USDT.
+
+## Festivals
+
+- [KaiCode'27](https://www.kaicode.org/2027.html): the current festival, with
+  rules, jury, rewards, and important dates
+- [KaiCode'26](https://www.kaicode.org/2026.html): winners of the 9th festival,
+  which received 153 applications
+- [KaiCode'25](https://www.kaicode.org/2025.html): winners of the 8th festival
+- [KaiCode'24](https://www.kaicode.org/2024.html): winners of the 7th festival
+- [Award 2015](https://www.yegor256.com/award.html): the first edition, before
+  the festival got its name
+
+## Participate
+
+- [Submission form](https://forms.gle/8edV3C2kuxCnq81Z9): submit your
+  repository to the current festival
+- [jury@kaicode.org](mailto:jury@kaicode.org): join the jury
+- [sponsor@kaicode.org](mailto:sponsor@kaicode.org): sponsor the festival
+- [orgs@kaicode.org](mailto:orgs@kaicode.org): help organize the festival
+- [team@kaicode.org](mailto:team@kaicode.org): everything else
+
+## Optional
+
+- [RSS feed](https://www.kaicode.org/rss.xml): announcements and updates
+- [Sitemap](https://www.kaicode.org/sitemap.xml): every page of the site
+- [GitHub repository](https://github.com/cqfn/kaicode.github.io): the source
+  code of this website
