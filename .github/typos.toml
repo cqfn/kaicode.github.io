@@ -5,3 +5,8 @@
 extend-ignore-identifiers-re = [
   "repositor",        # valid literal, for example 'repositor + ies/y'
 ]
+
+[files]
+extend-exclude = [
+  "emails.csv",
+]
